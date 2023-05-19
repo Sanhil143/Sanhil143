@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanhil143&label=Profile%20views&color=0e75b6&style=flat" alt="sanhil143" /> </p>
 
-- 💬 Ask me about **JavaScript, Java, MongoDB, Mysql, Redis, Backend-Development, Cyber Security**
+- 💬 Ask me about **JavaScript, Java, Nodejs, Expressjs, MongoDB, Mysql, Redis, Backend-Development, Cyber Security**
 
 - 📫 How to reach me **sanhilrai143@gmail.com**
 
