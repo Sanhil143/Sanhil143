@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanhil143&label=Profile%20views&color=0e75b6&style=flat" alt="sanhil143" /> </p>
 
-- 💬 Ask me about **JavaScript, Nodejs, Expressjs, MongoDB, SqlServer, Redis, Backend-Development, Reactjs, Threejs**
+- 💬 Ask me about **JavaScript,Typecript, Nodejs, Expressjs, Nestjs,  Reactjs, Threejs, NoSql, Sql, Redis**
 
 - 📫 How to reach me **sanhilrai143@gmail.com**
 
